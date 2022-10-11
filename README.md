@@ -6,7 +6,7 @@
 ``` py
 agustinwaizman = {
   lenguajes: [HTML, CSS, JavaScript, Python, Java],
-  herramientas: [Django, Bootstrap, Sass],
+  herramientas: [Django, Bootstrap, Sass, Spring],
   nacionalidad: "Argentina",
   edad: 24
 }
